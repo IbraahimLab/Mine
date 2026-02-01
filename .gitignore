@@ -14,5 +14,8 @@ model.pth
 model_and_optimizer.pth
 Notebooks\model_and_optimizer.pth
 Notebooks\model.pth
+<<<<<<< HEAD
 .env
 
+=======
+>>>>>>> 46d1c3d2f981f88c08dda785eeff71baac2a0c9a
